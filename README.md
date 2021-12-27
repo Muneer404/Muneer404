@@ -20,7 +20,7 @@ $ git clone https://github.com/Muneer404/Muneer404
 
 $ ls
 
-$ Muneer404
+$ cd Muneer404
 
 $ ls
 
